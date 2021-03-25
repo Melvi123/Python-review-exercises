@@ -91,7 +91,7 @@ while player_is_playing:
         if validity(first_player_input) and validity(second_player_input):
             game_result(first_player_input, second_player_input)
     else:
-        print("please choose between person and computer")
+        print(" please choose between person and computer")
     player_is_playing = user_play_again()
 
 
