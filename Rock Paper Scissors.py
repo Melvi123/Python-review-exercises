@@ -97,7 +97,7 @@ while player_is_playing:
 #
 # test_game_play()
 # Dictionaries and how they work
-# Function for the outcome
+#g Function for the outcome
 # Divide into functions
 # Computer v human OR human v human
 # Encryptions??
